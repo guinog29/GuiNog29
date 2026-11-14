@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**GuiNog29/GuiNog29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Guilherme Mathias — Analista Desenvolvedor .NET Pleno, perfil em formato de terminal](terminal.svg)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Oi 👋
+
+Sou o Guilherme, analista desenvolvedor .NET. Trabalho com manutenção e evolução de sistemas em arquitetura de microsserviços, sempre atrás de código rápido, escalável e de qualidade.
+
+- 🧱 Dia a dia: C#, .NET, Entity Framework, SQL Server e Oracle
+- 🖥️ Também mexo com React e Angular
+- 🐳 Docker, Kubernetes, Azure DevOps e RabbitMQ no deploy e na integração
